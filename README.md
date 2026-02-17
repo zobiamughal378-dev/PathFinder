@@ -1,2 +1,2 @@
 # PathFinder
-find the path uniformed or informed search
+find the path uniformed search
